@@ -22,7 +22,7 @@
 
 <h2> 🚀 Getting started</h2>
 
-1. `git clone https://github.com/UltraLionfr/statistics-discord-webhook-vps.git` & `cd statistics-discord-webhook-vps`
+1. `git clone https://github.com/UltraLionfr/statistics-discord-webhook-vps.git` & `cd statistics-discord-webhook-vps` -> `chmod +x script.sh`
 
 2. **To start you need to install the following packages on your server**:
 ```bash
